@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    
+}
+
+h1 {
+    font-family: "Seaweed Script", cursive;
+    padding: 20px;
+}
+
+p {
+    font-family: "Nanum Brush Script", cursive;
+    padding-left: 20px;
+}
+
+img {
+    height: 150px;
+    width:200px;
+    border: 10px;
+    border-color: grey;
+    padding: 10px;
+    padding-bottom: 30px;
+    margin: 10px;
+}
+
+#boat-pic {
+    float: right;
+    box-shadow: 5px 5px rgb(177, 172, 172);
+    transform: rotate(5deg);
+}
+
+#jewelry-pic {
+    float: left;
+    margin-right: 30px;
+    box-shadow: 5px 5px rgb(167, 163, 163);
+    transform: rotate(-5deg);
+}
+
