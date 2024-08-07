@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    
+    max-width: 800px;
 }
 
 h1 {
@@ -26,13 +26,13 @@ img {
 #boat-pic {
     float: right;
     box-shadow: 5px 5px rgb(177, 172, 172);
-    transform: rotate(5deg);
+    transform: rotate(3deg);
 }
 
 #jewelry-pic {
     float: left;
     margin-right: 30px;
     box-shadow: 5px 5px rgb(167, 163, 163);
-    transform: rotate(-5deg);
+    transform: rotate(-3deg);
 }
 
